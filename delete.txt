@@ -1,0 +1,33 @@
+GitHub repository ko delete karna ek simple process hai, lekin dhyan se karna chahiye kyunki once deleted, data recover nahi ho sakta. Niche step-by-step guide diya gaya hai:
+
+---
+
+### Steps to Delete a GitHub Repository:
+1. **Log in to GitHub:**
+   - Go to [GitHub](https://github.com/) and log in to your account.
+
+2. **Go to the Repository:**
+   - Navigate to the repository you want to delete by clicking on your profile picture (top-right) > "Your repositories."
+
+3. **Open Repository Settings:**
+   - In the repository page, click on the **Settings** tab (found at the top).
+
+4. **Scroll to Danger Zone:**
+   - Scroll down to the **"Danger Zone"** section in the settings.
+
+5. **Click on Delete this Repository:**
+   - Under "Danger Zone," click the **"Delete this repository"** button.
+
+6. **Confirm Deletion:**
+   - A pop-up will appear asking you to type the repository name for confirmation.
+   - Type the repository name exactly as it appears and press **"I understand the consequences, delete this repository."**
+
+7. **Done!**
+   - Your repository is now deleted permanently.
+
+---
+
+⚠ **Important Notes**:
+- **Backup:** Ensure you have a local copy of any important data before deleting.
+- **Permissions:** You can only delete a repository if you are the owner or have admin rights.
+

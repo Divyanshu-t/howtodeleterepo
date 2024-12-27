@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: gray;
+}
+
+body , html{
+    height: 100%;
+    width: 100%;
+}
+
+.main{
+    height: 100%;
+    width: 100%;
+}
+
+.main div{
+    margin-top: 30px;
+}
+
+
+.one{
+    height: 100%;
+    width: 99%;
+    background-image: url(1.webp);
+    background-size: cover;
+    border-radius: 20px;
+    margin: 0 .5%;
+}
+
+
+.two{
+    height: 100%;
+    width: 99%;
+    background-image: url(2.webp);
+    background-size: cover;
+    border-radius: 20px;
+    margin: 0 .5%;
+}
+
+
+.three{
+    height: 100%;
+    width: 99%;
+    background-image: url(3.webp);
+    background-size: cover;
+    border-radius: 20px;
+    margin: 0 .5%;
+}
+
+
+.four{
+    height: 100%;
+    width: 99%;
+    background-image: url(4.webp);
+    background-size: cover;
+    border-radius: 20px;
+    margin: 0 .5%;
+}
+
+
+.five{
+    height: 100%;
+    width: 99%;
+    background-image: url(5.webp);
+    background-size: cover;
+    border-radius: 20px;
+    margin: 0 .5%;
+}
+
+
+.six{
+    height: 100%;
+    width: 99%;
+    background-image: url(6.webp);
+    background-size: cover;
+    border-radius: 20px;
+    margin: 0 .5%;
+}
+
+.btn{
+    margin: 80px;
+    width: 100%;
+    padding: 30px;
+}
+
+.btn button{
+    height: 50px;
+    width: 500px;
+    margin-left: 30%;
+    border-radius: 50px;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 900;
+    box-shadow: 0 0 20px 5px rgb(118, 116, 116);
+}
+
+.btn button:hover{
+    cursor: pointer;
+}
+
+.forspace{
+    height: 50px;
+    width: 100%;
+}
+
